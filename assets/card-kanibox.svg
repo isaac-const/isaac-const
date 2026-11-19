@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="KaniBox: ('Catálogo do que eu uso e recomendo,', 'em português e inglês, com ferramentas.')">
+<style>
+:root{--bg:#121211;--ink:#ece9e1;--muted:#8e8a80;--line:#232321;--accent:#ff5a36;--key2:#ffffff;--card:#1b1b19}
+@media (prefers-color-scheme: light){:root{--bg:#f5f3ee;--ink:#1b1a17;--muted:#6b675e;--line:#e2ded3;--accent:#d93a16;--key2:#ffffff;--card:#ffffff}}
+text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+<rect x=".5" y=".5" width="399" height="189" rx="20" fill="var(--card)" stroke="var(--line)"/>
+<rect x="22" y="22" width="48" height="48" rx="14" fill="var(--accent)" fill-opacity=".14"/>
+<g transform="translate(34 34)" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="9" height="9" rx="2"/><rect x="13" y="2" width="9" height="9" rx="2"/><rect x="2" y="13" width="9" height="9" rx="2"/><rect x="13" y="13" width="9" height="9" rx="2"/></g>
+<text x="86" y="44" font-size="22" font-weight="700" fill="var(--ink)">KaniBox</text>
+<text x="86" y="64" font-size="14" fill="var(--muted)">Site · Astro, React, TypeScript</text>
+<text x="24" y="108" font-size="15" fill="var(--ink)">Catálogo do que eu uso e recomendo,</text>
+<text x="24" y="130" font-size="15" fill="var(--ink)">em português e inglês, com ferramentas.</text>
+<rect x="24" y="148" width="73" height="26" rx="13" fill="var(--accent)"/>
+<text class="m" x="60.5" y="165" font-size="12" text-anchor="middle" fill="#fff">NO AR</text>
+</svg>

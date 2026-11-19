@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="Grimo Notes: ('Caderno local de ideias: pastas, editor', 'com imagens e referências, sem nuvem.')">
+<style>
+:root{--bg:#121211;--ink:#ece9e1;--muted:#8e8a80;--line:#232321;--accent:#ff5a36;--key2:#ffffff;--card:#1b1b19}
+@media (prefers-color-scheme: light){:root{--bg:#f5f3ee;--ink:#1b1a17;--muted:#6b675e;--line:#e2ded3;--accent:#d93a16;--key2:#ffffff;--card:#ffffff}}
+text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+<rect x=".5" y=".5" width="399" height="189" rx="20" fill="var(--card)" stroke="var(--line)"/>
+<rect x="22" y="22" width="48" height="48" rx="14" fill="var(--accent)" fill-opacity=".14"/>
+<g transform="translate(34 34)" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12a2 2 0 012 2v16l-4-3H6a2 2 0 01-2-2V5a2 2 0 012-2z"/><path d="M8 8h8M8 12h5"/></g>
+<text x="86" y="44" font-size="22" font-weight="700" fill="var(--ink)">Grimo Notes</text>
+<text x="86" y="64" font-size="14" fill="var(--muted)">Desktop · Tauri, React, SQLite</text>
+<text x="24" y="108" font-size="15" fill="var(--ink)">Caderno local de ideias: pastas, editor</text>
+<text x="24" y="130" font-size="15" fill="var(--ink)">com imagens e referências, sem nuvem.</text>
+<rect x="24" y="148" width="163" height="26" rx="13" fill="none" stroke="var(--muted)" stroke-opacity=".6"/>
+<text class="m" x="105.5" y="165" font-size="12" text-anchor="middle" fill="var(--muted)">EM PLANEJAMENTO</text>
+</svg>

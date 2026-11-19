@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Isaac Costa, desenvolvedor full stack">
+<style>
+:root{--bg:#121211;--ink:#ece9e1;--muted:#8e8a80;--line:#232321;--accent:#ff5a36;--key2:#ffffff;--card:#1b1b19}
+@media (prefers-color-scheme: light){:root{--bg:#f5f3ee;--ink:#1b1a17;--muted:#6b675e;--line:#e2ded3;--accent:#d93a16;--key2:#ffffff;--card:#ffffff}}
+text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+<defs><clipPath id="c"><rect width="1280" height="320" rx="24"/></clipPath>
+<linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="var(--accent)" stop-opacity=".22"/><stop offset="1" stop-color="var(--accent)" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#c)">
+<rect width="1280" height="320" fill="var(--bg)"/>
+<rect width="760" height="320" fill="url(#glow)"/>
+<g stroke="var(--line)" opacity=".8"><path d="M80 0V320"/><path d="M160 0V320"/><path d="M240 0V320"/><path d="M320 0V320"/><path d="M400 0V320"/><path d="M480 0V320"/><path d="M560 0V320"/><path d="M640 0V320"/><path d="M720 0V320"/><path d="M800 0V320"/><path d="M880 0V320"/><path d="M960 0V320"/><path d="M1040 0V320"/><path d="M1120 0V320"/><path d="M1200 0V320"/><path d="M0 64H1280"/><path d="M0 128H1280"/><path d="M0 192H1280"/><path d="M0 256H1280"/></g>
+<g transform="translate(86 52) scale(.86)"><g>
+<animateTransform attributeName="transform" type="rotate" values="-16 128 150;16 128 150;-16 128 150" dur="4.4s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+<rect x="116" y="118" width="24" height="110" rx="10" fill="var(--key2)"/>
+<rect x="116" y="204" width="42" height="18" rx="8" fill="var(--key2)"/>
+<rect x="116" y="156" width="24" height="10" fill="var(--accent)"/>
+<path d="M128 112C112 62 46 34 30 82C20 114 62 140 128 124C194 140 236 114 226 82C210 34 144 62 128 112Z" fill="var(--accent)"/>
+<path d="M128 106C116 72 70 54 56 86C50 106 78 120 128 112C178 120 206 106 200 86C186 54 140 72 128 106Z" fill="var(--key2)"/>
+<circle cx="128" cy="116" r="15" fill="var(--accent)"/><circle cx="128" cy="116" r="6" fill="var(--key2)"/></g></g>
+<text x="330" y="150" font-size="88" font-weight="700" letter-spacing="-3" fill="var(--ink)">Isaac <tspan fill="var(--accent)">Costa</tspan>
+<animate attributeName="opacity" from="0" to="1" dur=".9s" fill="freeze"/></text>
+<text x="334" y="205" font-size="32" fill="var(--ink)">Desenvolvedor full stack
+<animate attributeName="opacity" from="0" to="1" begin=".3s" dur=".9s" fill="freeze"/></text>
+<text class="m" x="334" y="252" font-size="20" fill="var(--muted)">web · mobile · desktop
+<animate attributeName="opacity" from="0" to="1" begin=".6s" dur=".9s" fill="freeze"/></text>
+<rect y="304" width="1280" height="16" fill="var(--accent)"/>
+
+</g></svg>

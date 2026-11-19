@@ -1,40 +1,69 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Isaac Costa, desenvolvedor full stack" src="assets/banner-dark.svg" width="100%">
-  </picture>
+  <img src="assets/banner.svg" alt="Isaac Costa, desenvolvedor full stack" width="100%">
 </p>
 
-Desenvolvedor full stack, tecnólogo em Sistemas para Internet pelo IFMA. Gosto de interface limpa, que se sente bem de usar, e de back-end que não dá susto. Também desenho no Figma antes de codar.
-
-<p>
-  <a href="https://portfolio-isaac-const.vercel.app"><img alt="Portfólio" src="https://img.shields.io/badge/portf%C3%B3lio-ver-ff5a36?style=for-the-badge&labelColor=121211"></a>
-  <a href="https://linkedin.com/in/isaaccosta-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-isaaccosta--dev-ff5a36?style=for-the-badge&labelColor=121211"></a>
-  <a href="https://isaac-const.github.io/kanibox/"><img alt="KaniBox" src="https://img.shields.io/badge/kanibox-o%20que%20eu%20uso-ff5a36?style=for-the-badge&labelColor=121211"></a>
+<p align="center">
+  Construo produtos do começo ao fim: da interface ao banco de dados.<br>
+  Tecnólogo em Sistemas para Internet (IFMA), com foco em <b>React</b>, <b>TypeScript</b> e <b>Node.js</b>.
 </p>
 
-## Projetos
+<p align="center">
+  <a href="https://portfolio-isaac-const.vercel.app"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-ff5a36?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://linkedin.com/in/isaaccosta-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ff5a36?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://isaac-const.github.io/kanibox/"><img alt="KaniBox" src="https://img.shields.io/badge/KaniBox-ff5a36?style=for-the-badge&logo=astro&logoColor=white"></a>
+</p>
 
-| Projeto | O que é |
-| --- | --- |
-| [**KaniBox**](https://github.com/isaac-const/kanibox) | Catálogo de ferramentas, apps e jogos que eu uso e recomendo, em português e inglês. [Site](https://isaac-const.github.io/kanibox/) |
-| [**MoonDeck**](https://github.com/isaac-const/Moondeck) | Deck de ações para as teclas que você quase não usa (Home, PgUp, F13 a F24, numpad), organizado por modos. Tauri 2 e React 19. |
-| [**Upple**](https://github.com/isaac-const/upple) | Aplicativo para divulgação de projetos open source. |
-| [**Arcahub**](https://github.com/isaac-const/Arcahub) | Central de comando para desenvolvedores: projetos, tarefas e Git num lugar só. Electron, React e TypeScript. |
-| [**RecipeNow**](https://github.com/isaac-const/recipenow) | Aplicativo de receitas com busca, filtros e favoritos. React Native e Expo. |
+## Em destaque
+
+<table>
+  <tr>
+    <td><a href="https://github.com/isaac-const/kanibox"><img src="assets/card-kanibox.svg" alt="KaniBox" width="400"></a></td>
+    <td><a href="https://github.com/isaac-const/grimo-notes"><img src="assets/card-grimo-notes.svg" alt="Grimo Notes" width="400"></a></td>
+    <td><a href="https://github.com/isaac-const/kita-finances"><img src="assets/card-kita-finances.svg" alt="Kita Finances" width="400"></a></td>
+  </tr>
+</table>
+
+## Mais projetos
+
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [**MoonDeck**](https://github.com/isaac-const/Moondeck) | Deck de ações para as teclas que você quase não usa (Home, PgUp, F13 a F24, numpad), organizado por modos. | Tauri 2 · React 19 |
+| [**Arcahub**](https://github.com/isaac-const/Arcahub) | Central de comando para desenvolvedores: projetos, tarefas e Git num lugar só. | Electron · React · Vite |
+| [**Upple**](https://github.com/isaac-const/upple) | Aplicativo para divulgação de projetos open source. | Expo · React Native · Supabase |
+| [**RecipeNow**](https://github.com/isaac-const/recipenow) | Aplicativo de receitas com busca, filtros e favoritos. | Expo · React Native |
 
 ## Stack
 
-**Front-end:** React, TypeScript, JavaScript, TailwindCSS, HTML, CSS, Figma
-**Back-end:** Node.js, Express, AdonisJS, APIs REST, PHP
-**Dados:** PostgreSQL, MySQL, Supabase
-**Dia a dia:** Git, GitHub, Linux, Arduino
+<p>
+  <b>Linguagens</b><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,py,rust&perline=8" alt="JavaScript, TypeScript, HTML, CSS, Java, PHP, Python, Rust">
+</p>
+<p>
+  <b>Front-end</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,sass,figma,framer&perline=8" alt="React, Next.js, Astro, Vite, Tailwind, Sass, Figma, Framer Motion">
+</p>
+<p>
+  <b>Mobile e desktop</b><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,electron,tauri&perline=8" alt="React Native com Expo, Electron, Tauri">
+</p>
+<p>
+  <b>Back-end e dados</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,mysql,sqlite,supabase,mongodb,prisma&perline=10" alt="Node.js, Express, NestJS, GraphQL, PostgreSQL, MySQL, SQLite, Supabase, MongoDB, Prisma">
+</p>
+<p>
+  <b>Ferramentas</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,vscode,postman,jest,arduino&perline=10" alt="Git, GitHub, GitHub Actions, Docker, Linux, Vercel, VS Code, Postman, Jest, Arduino">
+</p>
 
-## Agora
+## Contribuições
 
-- Trabalhando como desenvolvedor full stack.
-- Ideias de desktop e mobile em planejamento: **Grimo Notes** (notas) e **Kita Finances** (finanças).
-- Inglês avançado, espanhol intermediário.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaac-const/isaac-const/output/snake-dark.svg">
+    <img alt="Cobrinha comendo as contribuições do ano" src="https://raw.githubusercontent.com/isaac-const/isaac-const/output/snake.svg" width="100%">
+  </picture>
+</p>
 
-<sub>Feito à mão. Sem contador de visitas nem gráficos de commits: o código fala melhor.</sub>
+## Contato
+
+Procuro oportunidades como desenvolvedor full stack, remoto ou presencial em Teresina e Timon. O caminho mais rápido é o [LinkedIn](https://linkedin.com/in/isaaccosta-dev) ou o [portfólio](https://portfolio-isaac-const.vercel.app).
