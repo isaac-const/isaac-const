@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Isaac Costa, desenvolvedor full stack">
+  <defs><clipPath id="c"><rect width="1280" height="300" rx="22"/></clipPath></defs>
+  <g clip-path="url(#c)">
+  <rect width="1280" height="300" rx="22" fill="#121211"/>
+  <g stroke="#232321" stroke-width="1" opacity=".7">
+    <path d="M80 0V300"/><path d="M160 0V300"/><path d="M240 0V300"/><path d="M320 0V300"/><path d="M400 0V300"/><path d="M480 0V300"/><path d="M560 0V300"/><path d="M640 0V300"/><path d="M720 0V300"/><path d="M800 0V300"/><path d="M880 0V300"/><path d="M960 0V300"/><path d="M1040 0V300"/><path d="M1120 0V300"/><path d="M1200 0V300"/>
+    <path d="M0 60H1280"/><path d="M0 120H1280"/><path d="M0 180H1280"/><path d="M0 240H1280"/>
+  </g>
+  <g transform="translate(96 96) rotate(-14)">
+    <rect width="150" height="64" rx="32" fill="#ece9e1"/>
+    <path d="M0 32A32 32 0 0 1 32 0H118A32 32 0 0 1 150 32Z" fill="#ff5a36"/>
+    <circle cx="118" cy="34" r="9" fill="#121211" opacity=".9"/>
+  </g>
+  <text x="300" y="150" font-family="Space Grotesk, Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="700" fill="#ece9e1" letter-spacing="-2">Isaac <tspan fill="#ff5a36">Costa</tspan></text>
+  <text x="304" y="200" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" fill="#ece9e1">Desenvolvedor full stack</text>
+  <text x="304" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#8e8a80">React · TypeScript · Node.js · interfaces com cuidado</text>
+  <rect x="0" y="286" width="1280" height="14" fill="#ff5a36" opacity=".95"/>
+  </g>
+</svg>
