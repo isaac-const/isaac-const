@@ -55,15 +55,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,vscode,postman,jest,arduino&perline=10" alt="Git, GitHub, GitHub Actions, Docker, Linux, Vercel, VS Code, Postman, Jest, Arduino">
 </p>
 
-## Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaac-const/isaac-const/output/snake-dark.svg">
-    <img alt="Cobrinha comendo as contribuições do ano" src="https://raw.githubusercontent.com/isaac-const/isaac-const/output/snake.svg" width="100%">
-  </picture>
-</p>
-
 ## Contato
 
-Aberto a oportunidades como desenvolvedor full stack. O caminho mais rápido é o [LinkedIn](https://linkedin.com/in/isaaccosta-dev) ou o [portfólio](https://portfolio-isaac-const.vercel.app).
+Aberto a oportunidades como desenvolvedor full stack.
+
+<p>
+  <a href="mailto:isaaccs.contato@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/isaaccs.contato%40gmail.com-ff5a36?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/isaaccosta-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ff5a36?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-isaac-const.vercel.app"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-ff5a36?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>

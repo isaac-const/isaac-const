@@ -1,7 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512"><style>:root{--accent:#ff5a36;--key2:#fff}</style>
-<rect width="256" height="256" fill="#121211"/><g transform="translate(0 6)"><rect x="116" y="118" width="24" height="110" rx="10" fill="var(--key2)"/>
-<rect x="116" y="204" width="42" height="18" rx="8" fill="var(--key2)"/>
-<rect x="116" y="156" width="24" height="10" fill="var(--accent)"/>
-<path d="M128 112C112 62 46 34 30 82C20 114 62 140 128 124C194 140 236 114 226 82C210 34 144 62 128 112Z" fill="var(--accent)"/>
-<path d="M128 106C116 72 70 54 56 86C50 106 78 120 128 112C178 120 206 106 200 86C186 54 140 72 128 106Z" fill="var(--key2)"/>
-<circle cx="128" cy="116" r="15" fill="var(--accent)"/><circle cx="128" cy="116" r="6" fill="var(--key2)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="512" height="512"><style>:root{--accent:#ff5a36}</style><rect width="256" height="256" fill="#121211"/><g transform="translate(0 -4)"><path fill-rule="evenodd" fill="var(--accent)" d="M128 108C120 70 90 44 62 50C34 56 24 92 38 118C52 144 96 146 128 132C160 146 204 144 218 118C232 92 222 56 194 50C166 44 136 70 128 108Z M76 76C64 78 60 96 70 106C80 116 100 114 108 108C104 94 92 74 76 76Z M180 76C192 78 196 96 186 106C176 116 156 114 148 108C152 94 164 74 180 76Z"/>
+<rect x="114" y="118" width="28" height="112" rx="10" fill="var(--accent)"/>
+<rect x="114" y="204" width="48" height="26" rx="10" fill="var(--accent)"/></g></svg>
