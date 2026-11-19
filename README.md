@@ -43,8 +43,8 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,sass,figma,framer&perline=8" alt="React, Next.js, Astro, Vite, Tailwind, Sass, Figma, Framer Motion">
 </p>
 <p>
-  <b>Mobile e desktop</b><br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,electron,tauri&perline=8" alt="React Native com Expo, Electron, Tauri">
+  <b>Mobile e desktop</b> <sub>(React Native + Expo, Electron, Tauri)</sub><br>
+  <img src="https://skillicons.dev/icons?i=react,electron,tauri&perline=8" alt="React Native com Expo, Electron, Tauri">
 </p>
 <p>
   <b>Back-end e dados</b><br>
@@ -66,4 +66,4 @@
 
 ## Contato
 
-Procuro oportunidades como desenvolvedor full stack, remoto ou presencial em Teresina e Timon. O caminho mais rápido é o [LinkedIn](https://linkedin.com/in/isaaccosta-dev) ou o [portfólio](https://portfolio-isaac-const.vercel.app).
+Aberto a oportunidades como desenvolvedor full stack. O caminho mais rápido é o [LinkedIn](https://linkedin.com/in/isaaccosta-dev) ou o [portfólio](https://portfolio-isaac-const.vercel.app).
