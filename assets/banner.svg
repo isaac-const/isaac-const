@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Isaac Costa, desenvolvedor full stack">
 <style>
-:root{--bg:#121211;--ink:#ece9e1;--muted:#8e8a80;--line:#232321;--accent:#ff5a36}
-@media (prefers-color-scheme: light){:root{--bg:#f5f3ee;--ink:#1b1a17;--muted:#6b675e;--line:#e2ded3;--accent:#d93a16}}
+:root{--bg:#121211;--ink:#ece9e1;--muted:#8e8a80;--line:#232321;--accent:#ff5a36;--hole:#121211}
+@media (prefers-color-scheme: light){:root{--bg:#f5f3ee;--ink:#1b1a17;--muted:#6b675e;--line:#e2ded3;--accent:#d93a16;--hole:#f5f3ee}}
 text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
 .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 </style>
@@ -9,9 +9,13 @@ text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
 <g clip-path="url(#c)">
 <rect width="1280" height="320" fill="var(--bg)"/>
 <g stroke="var(--line)" opacity=".8"><path d="M80 0V320"/><path d="M160 0V320"/><path d="M240 0V320"/><path d="M320 0V320"/><path d="M400 0V320"/><path d="M480 0V320"/><path d="M560 0V320"/><path d="M640 0V320"/><path d="M720 0V320"/><path d="M800 0V320"/><path d="M880 0V320"/><path d="M960 0V320"/><path d="M1040 0V320"/><path d="M1120 0V320"/><path d="M1200 0V320"/><path d="M0 64H1280"/><path d="M0 128H1280"/><path d="M0 192H1280"/><path d="M0 256H1280"/></g>
-<g transform="translate(86 40) scale(.9)"><path fill-rule="evenodd" fill="var(--accent)" d="M128 108C120 70 90 44 62 50C34 56 24 92 38 118C52 144 96 146 128 132C160 146 204 144 218 118C232 92 222 56 194 50C166 44 136 70 128 108Z M76 76C64 78 60 96 70 106C80 116 100 114 108 108C104 94 92 74 76 76Z M180 76C192 78 196 96 186 106C176 116 156 114 148 108C152 94 164 74 180 76Z"/>
-<rect x="114" y="118" width="28" height="112" rx="10" fill="var(--accent)"/>
-<rect x="114" y="204" width="48" height="26" rx="10" fill="var(--accent)"/></g>
+<g transform="translate(150 168) rotate(45) scale(1.0)"><g fill="var(--accent)">
+<ellipse cx="-34" cy="-66" rx="36" ry="30"/><ellipse cx="34" cy="-66" rx="36" ry="30"/>
+<rect x="-16" y="-62" width="32" height="42" rx="10"/>
+<rect x="-10" y="-30" width="20" height="108" rx="6"/>
+<path d="M-10 78H26V60H10V48H-10Z"/>
+</g>
+<rect x="-3" y="-98" width="6" height="30" rx="3" fill="var(--hole,#121211)"/></g>
 <text x="330" y="150" font-size="88" font-weight="700" letter-spacing="-3" fill="var(--ink)">Isaac <tspan fill="var(--accent)">Costa</tspan></text>
 <text x="334" y="205" font-size="32" fill="var(--ink)">Desenvolvedor full stack</text>
 <text class="m" x="334" y="252" font-size="20" fill="var(--muted)">web · mobile · desktop</text>
