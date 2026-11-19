@@ -21,8 +21,8 @@ Desenvolvedor full stack, tecnólogo em Sistemas para Internet pelo IFMA. Gosto 
 | [**KaniBox**](https://github.com/isaac-const/kanibox) | Catálogo de ferramentas, apps e jogos que eu uso e recomendo, em português e inglês. [Site](https://isaac-const.github.io/kanibox/) |
 | [**MoonDeck**](https://github.com/isaac-const/Moondeck) | Deck de ações para as teclas que você quase não usa (Home, PgUp, F13 a F24, numpad), organizado por modos. Tauri 2 e React 19. |
 | [**Upple**](https://github.com/isaac-const/upple) | Aplicativo para divulgação de projetos open source. |
-| [**Arcahub**](https://github.com/isaac-const/Arcahub) | Projeto em TypeScript. |
-| [**RecipeNow**](https://github.com/isaac-const/recipenow) | Aplicativo de receitas, em TypeScript. |
+| [**Arcahub**](https://github.com/isaac-const/Arcahub) | Central de comando para desenvolvedores: projetos, tarefas e Git num lugar só. Electron, React e TypeScript. |
+| [**RecipeNow**](https://github.com/isaac-const/recipenow) | Aplicativo de receitas com busca, filtros e favoritos. React Native e Expo. |
 
 ## Stack
 
