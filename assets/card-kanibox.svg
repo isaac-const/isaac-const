@@ -13,5 +13,5 @@ text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
 <text x="24" y="108" font-size="15" fill="var(--ink)">Catálogo do que eu uso e recomendo,</text>
 <text x="24" y="130" font-size="15" fill="var(--ink)">em português e inglês, com ferramentas.</text>
 <rect x="24" y="148" width="124" height="26" rx="13" fill="var(--accent)"/>
-<text class="m" x="86" y="165" font-size="12" text-anchor="middle" fill="#fff">NO AR · v1.2.6</text>
+<text class="m" x="86" y="165" font-size="12" text-anchor="middle" fill="#fff">NO AR · v1.2.7</text>
 </svg>

@@ -13,5 +13,5 @@ text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
 <text x="24" y="108" font-size="15" fill="var(--ink)">Finanças pessoais com empréstimos de</text>
 <text x="24" y="130" font-size="15" fill="var(--ink)">verdade: parcelas, juros e vencimentos.</text>
 <rect x="24" y="148" width="64" height="26" rx="13" fill="none" stroke="var(--muted)" stroke-opacity=".6"/>
-<text class="m" x="56" y="165" font-size="12" text-anchor="middle" fill="var(--muted)">v1.2.0</text>
+<text class="m" x="56" y="165" font-size="12" text-anchor="middle" fill="var(--muted)">v1.3.0</text>
 </svg>
