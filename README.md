@@ -15,13 +15,11 @@
 
 ## Em destaque
 
-<table>
-  <tr>
-    <td><a href="https://github.com/isaac-const/kanibox"><img src="assets/card-kanibox.svg" alt="KaniBox" width="400"></a></td>
-    <td><a href="https://github.com/isaac-const/grimo-notes"><img src="assets/card-grimo-notes.svg" alt="Grimo Notes" width="400"></a></td>
-    <td><a href="https://github.com/isaac-const/kita-finances"><img src="assets/card-kita-finances.svg" alt="Kita Finances" width="400"></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/isaac-const/kanibox"><img src="assets/card-kanibox.svg" alt="KaniBox" width="270"></a>
+  <a href="https://github.com/isaac-const/grimo-notes"><img src="assets/card-grimo-notes.svg" alt="Grimo Notes" width="270"></a>
+  <a href="https://github.com/isaac-const/kita-finances"><img src="assets/card-kita-finances.svg" alt="Kita Finances" width="270"></a>
+</p>
 
 ## Mais projetos
 
