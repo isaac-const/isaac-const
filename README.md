@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Isaac Costa, desenvolvedor full stack" width="100%">
+  <img src="assets/banner.svg" alt="Isaac Costa Silva, desenvolvedor full stack" width="100%">
 </p>
 
 <p align="center">
