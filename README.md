@@ -27,7 +27,7 @@
 | --- | --- | --- |
 | [**MoonDeck**](https://github.com/isaac-const/Moondeck) | Deck de ações para as teclas que você quase não usa (Home, PgUp, F13 a F24, numpad), organizado por modos. | Tauri 2 · React 19 |
 | [**Arcahub**](https://github.com/isaac-const/Arcahub) | Central de comando para desenvolvedores: projetos, tarefas e Git num lugar só. | Electron · React · Vite |
-| [**Upple**](https://github.com/isaac-const/upple) | Aplicativo para divulgação de projetos open source. | Expo · React Native · Supabase |
+| [**Kixel**](https://github.com/isaac-const/kixel) | Editor de pixel art em tela infinita, com camadas, animação e exportação para Aseprite, GIF e Godot. | TypeScript · WebGL2 · Vite |
 | [**RecipeNow**](https://github.com/isaac-const/recipenow) | Aplicativo de receitas com busca, filtros e favoritos. | Expo · React Native |
 
 ## Stack
